@@ -57,3 +57,11 @@
     margin: 28px;
 
   }
+  .Skills{
+    display: grid;
+    justify-content: center;
+    background-color: #00a5a5;
+    margin: 44px;
+    padding: 46px;
+}
+  
