@@ -12,6 +12,7 @@
   .navbar-nav {
     margin-left: auto;
     margin-right: 0 !important;
+    background: skyblue;
   }
   
   .nav-item {
@@ -27,17 +28,11 @@
       background-image: url(../images/rockOn_dark.jpg);
       background-size: cover;
       background-repeat: no-repeat;
-      height: calc(100vh - 25px);
-    }
-    
-    /* Jumbotron copy */
-    .jumboCopy {
-      width: 70%;
       min-width: 500px;
-      max-width: 700px;
       color: white;
       text-align: center;
     }
+    
    
   .display-4 {
       font-size: 2.5rem;
@@ -52,3 +47,13 @@
   }
   
   /* End Jumbotron */
+
+  /* My Work */
+
+  .Work{
+    display: grid;
+    justify-content: center;
+    background-color: #00a5a5;
+    margin: 28px;
+
+  }
