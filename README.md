@@ -13,5 +13,8 @@ In this Project I used Bootstarp to create the project.
  -I have also used my previous projrcts skills. 
 
 Plase Visit the link for my project
- 
+ https://parvez85.github.io/Bootstrap-Portfolio/
 
+ Git HUb Repo Link
+ https://github.com/parvez85/Bootstrap-Portfolio/settings/pages
+ 
