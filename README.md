@@ -9,7 +9,7 @@ In this Project I used Bootstarp to create the project.
  
  -It is very useful to Create different section of webpage by defult bootstrap code ,which saves the time.
  
- -I have also learn how to  edite the defult  Bootstrap code to customize it according to the project.
+ -I have also learn how to  edit the defult  Bootstrap code to customize it according to the project.
 
  -I have also used my previous projrcts skills. 
 
