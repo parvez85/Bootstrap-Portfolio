@@ -18,11 +18,7 @@
   .nav-item {
     margin: 0px 15px;
   }
-  .navbar-brand img {
-      padding-right: 15px;
-      width: 95px;
-    }
-  
+
   /* Jumbotron */
   .jumbotron {
       background-image: url(../images/rockOn_dark.jpg);
@@ -45,6 +41,9 @@
       font-weight: 300;
       color: seashell;
   }
+  .jumbotron-img{
+    height: 100px;
+  }
   
   /* End Jumbotron */
 
@@ -57,6 +56,8 @@
     margin: 28px;
 
   }
+  /* skill section */
+
   .Skills{
     display: grid;
     justify-content: center;
@@ -65,3 +66,32 @@
     padding: 46px;
 }
   
+/*  End skill section */
+
+/* Footer Section */
+.footer{
+  width: 90%;
+  background-color:#228fb1;
+  padding: 30px;
+  margin: 20px;
+}
+
+.footer-elements{
+  display: flex;
+  justify-content: space-between;
+  color: rgb(0, 0, 0);
+  font-size: large;
+}
+.footer-a { 
+  color: rgb(0, 1, 3);
+  font-size: 20px;
+  padding: 28px; 
+}
+/* end of footer */
+
+
+a:hover{
+  background-color: rgb(107, 149, 9);
+  box-shadow: 0px 5px 10px black
+  
+}
